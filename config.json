@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrave",
+        "uuid": 2402946,
+        "checksum": "tfiyqg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
